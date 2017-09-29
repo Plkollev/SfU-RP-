@@ -6,4 +6,5 @@ Conflict Test Success
 Branch Test
 Master Branch Test
 Conf Resolved
+Bash Conflict test
 
