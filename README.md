@@ -6,4 +6,4 @@ Conflict Test Success
 Branch Test
 Master Branch Test
 Conf Resolved
-
+Bash will crush
